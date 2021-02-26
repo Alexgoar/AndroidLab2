@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flickr app</string>
+    <string name="get_an_image">Get an image</string>
+    <string name="go_to_list_activity">Go to List Activity</string>
+</resources>
